@@ -1,0 +1,4 @@
+https://janakiev.com/blog/gps-points-distance-python/
+https://learn.microsoft.com/en-us/bingmaps/rest-services/elevations/point-compression-algorithm
+https://readthedocs.org/projects/simplekml/downloads/pdf/latest/
+https://www.codegrepper.com/code-examples/python/qlabel+click+event+python
