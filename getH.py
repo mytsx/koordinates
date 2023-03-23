@@ -1,7 +1,7 @@
 import requests
 import json
 import time
-apikey = "AIzaSyCg-5rgvNpcF2ak_WS97_V0M1b4EuCwrJk"
+apikey = ""
 
 pastTime = 0
 
