@@ -2,7 +2,7 @@ import urllib.request
 from getH import getRequestTime
 
 # Your Bing Maps Key 
-bingMapsKey = "AmIDHSRfFphz3DB2tUIL4m-p3ZlW3w28JoPO2m6AbvMT9rIe-PuNY7c393gEMRAr"
+bingMapsKey = ""
 
 # input information
 longitude = 37.96359396848452
